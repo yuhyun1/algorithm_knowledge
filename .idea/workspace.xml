@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70da107f-d0a8-43a3-99a2-2de3b9954cfb" name="Changes" comment="초기 세팅">
-      <change afterPath="$PROJECT_DIR$/src/charAt_and_ASCII.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/ASCII.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sieve_of_eratosthenes.md" afterDir="false" />
+    <list default="true" id="70da107f-d0a8-43a3-99a2-2de3b9954cfb" name="Changes" comment="알고리즘 지식 공부">
+      <change afterPath="$PROJECT_DIR$/src/brute_force_algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/euclidean_algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modular_arithmetic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/number_of_divisor_algorithms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object_oriented_programming.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681896345442</updated>
-      <workItem from="1681896346683" duration="1928000" />
+      <workItem from="1681896346683" duration="4932000" />
     </task>
     <task id="LOCAL-00001" summary="초기 세팅">
       <created>1681896423637</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681896423637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="알고리즘 지식 공부">
+      <created>1681898363045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681898363045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="초기 세팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="초기 세팅" />
+    <MESSAGE value="알고리즘 지식 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 지식 공부" />
   </component>
 </project>
